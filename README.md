@@ -15,7 +15,7 @@ Server receives encrypted secret key and decrept it with RSA private key.
 
 After that, they send and received message with AES 256 Encryption.
 
-#Usage
+# Usage
 
 Client User should enter the Server's IP address in the variable "host_ip"
 
